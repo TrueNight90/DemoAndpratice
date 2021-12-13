@@ -1,1 +1,3 @@
 # DemoAndpratice
+存放一些个人的模板和练习的仓库
+有java和python的代码
